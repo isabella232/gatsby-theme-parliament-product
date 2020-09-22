@@ -7,9 +7,9 @@ description: This is the Project Firefly homepage
 
 ![IO background](images/io-bg.png)
 
-# The most memorable digital experiences are unleashed by developer creativity
+# Everything you need to build a Cloud Native Adobe App
 
-Adobe products and technologies power them
+Project Firefly is a complete framework to build and deploy custom web apps in minutes on our serverless platform.
 
 * [Sign up for a preview](https://adobe.io) 
 
